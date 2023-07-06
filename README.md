@@ -39,6 +39,8 @@ Back / Front :
 
 ![Accueil](https://github.com/adatechschool/back-endProjetAntikea/assets/123969080/631e745c-7623-4bb7-841f-a53bd806088b)
 
+![Inscription](https://github.com/adatechschool/front-endProjetAntikea/assets/123969080/b7f12b1a-7c16-4bc9-94f2-4797dbfe0b1a)
+
 ![Login](https://github.com/adatechschool/back-endProjetAntikea/assets/123969080/e84d494e-3afe-427a-81ba-930b06365807)
 
 ![Ajout de meubles](https://github.com/adatechschool/back-endProjetAntikea/assets/123969080/38bb9284-2a04-4d3a-9ce3-4e5cee261474)
