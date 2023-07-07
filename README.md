@@ -1,6 +1,8 @@
 
 # Site e-commerce de ventes de meubles - ANTIKEA
 
+Juillet 2023, 5e de formation.
+
 Projet en équipe de 8 en situation réelle. 
 
 "Lauréline Fleury a lancé son entreprise de vente de meubles de seconde main. Pour gagner en visibilité, elle a besoin d’avoir un site internet pour afficher ses produits. En plus, cela lui permettra de gérer son stock."
